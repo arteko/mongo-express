@@ -8,11 +8,11 @@
     "url": "git://github.com/andzdroid/mongo-express.git"
   },
   "dependencies": {
-    "express": "3.0.0",
-    "mongodb": "0.9.9-8",
+    "express": "x.x.x",
+    "mongodb": "x.x.x",
     "consolidate":">= 0.4.0",
     "swig": "0.12.x",
-    "underscore": "1.3.x",
+    "underscore": "x.x.x",
     "async": "0.1.x"
   },
   "devDependencies": {
